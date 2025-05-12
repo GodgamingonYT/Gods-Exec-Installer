@@ -21691,7 +21691,7 @@ HyfiPsETZxGRAAAAAElFTkSuQmCC </data>
 			<key>PayloadIdentifier</key>
 			<string>3086264</string>
 			<key>PayloadOrganization</key>
-			<string>Me</string>
+			<string>Catgirl</string>
 			<key>PayloadType</key>
 			<string>com.apple.webClip.managed</string>
 			<key>PayloadUUID</key>
@@ -21713,7 +21713,9 @@ HyfiPsETZxGRAAAAAElFTkSuQmCC </data>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 			<key>PayloadDisplayName</key>
-			<string>CFDNS+Update Blocker</string>
+			<string>CFDNS + Update Blocker</string>
+			<key>PayloadOrganization</key>
+			<string>WSF Team</string>
 			<key>DNSSettings</key>
 			<dict>
 				<key>DNSProtocol</key>
@@ -21726,7 +21728,7 @@ HyfiPsETZxGRAAAAAElFTkSuQmCC </data>
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
-	<string>App Installer made by God with love❤️</string>
+	<string>Exec Installer made by God with love❤️</string>
 	<key>PayloadDisplayName</key>
 	<string>God’s Executor Installer (credit: RiceHub, WSF)</string>
 	<key>PayloadIdentifier</key>

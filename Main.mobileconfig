@@ -21721,14 +21721,14 @@ HyfiPsETZxGRAAAAAElFTkSuQmCC </data>
 				<key>ServerURL</key>
 				<string>https://32ev95ur21.cloudflare-gateway.com/dns-query</string>
 				<key>ServerName</key>
-				<string>cloudflare-gateway</string>
+				<string>CFDNS+Update Blocker</string>
 			</dict>
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
-	<string>App Installer made by God with love❤️, with Cloudflare DNS settings</string>
+	<string>App Installer made by God with love❤️</string>
 	<key>PayloadDisplayName</key>
-	<string>God’s Executor Installer (credit: RiceHub)</string>
+	<string>God’s Executor Installer (credit: RiceHub, WSF)</string>
 	<key>PayloadIdentifier</key>
 	<string>appicon.God’s Executor Installer (credit: RiceHub)</string>
 	<key>PayloadRemovalDisallowed</key>

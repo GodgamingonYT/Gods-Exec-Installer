@@ -21713,7 +21713,7 @@ HyfiPsETZxGRAAAAAElFTkSuQmCC </data>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 			<key>PayloadDisplayName</key>
-			<string>Cloudflare DNS Settings</string>
+			<string>CFDNS+Update Blocker</string>
 			<key>DNSSettings</key>
 			<dict>
 				<key>DNSProtocol</key>

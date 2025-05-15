@@ -21687,7 +21687,7 @@ HyfiPsETZxGRAAAAAElFTkSuQmCC </data>
 			<key>PayloadDescription</key>
 			<string>Configures Web Clip</string>
 			<key>PayloadDisplayName</key>
-			<string>God’s Executor Installer (credit: RiceHub)</string>
+			<string>Catgirl's Executor Installer</string>
 			<key>PayloadIdentifier</key>
 			<string>3086264</string>
 			<key>PayloadOrganization</key>
@@ -21707,7 +21707,7 @@ HyfiPsETZxGRAAAAAElFTkSuQmCC </data>
 			<key>PayloadType</key>
 			<string>com.apple.dnsSettings.managed</string>
 			<key>PayloadIdentifier</key>
-			<string>com.godsdelta.dns</string>
+			<string>com.wsf.dns</string>
 			<key>PayloadUUID</key>
 			<string>7E232738-EBF8-420A-8BD3-6F9E1F5AB219</string>
 			<key>PayloadVersion</key>
@@ -21728,11 +21728,16 @@ HyfiPsETZxGRAAAAAElFTkSuQmCC </data>
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
-	<string>Exec Installer made by God with love❤️</string>
+	<string>Exec Installer made by catgirl with love❤️
+Credit: Ricehub, WSF
+Ricehub: https://discord.gg/Qx2jyDSX6u
+WSF: https://discord.com/invite/kwvwkCBhxT</string>
 	<key>PayloadDisplayName</key>
-	<string>God’s Executor Installer (credit: RiceHub, WSF)</string>
+	<string>God’s Executor Installer</string>
+	<key>PayloadOrganization</key>
+	<string>Catgirl, Rice, WSF</string>
 	<key>PayloadIdentifier</key>
-	<string>appicon.God’s Executor Installer (credit: RiceHub)</string>
+	<string>Catgirl Exec Installer</string>
 	<key>PayloadRemovalDisallowed</key>
 	<false/>
 	<key>PayloadType</key>

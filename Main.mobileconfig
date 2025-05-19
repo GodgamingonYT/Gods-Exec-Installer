@@ -21703,35 +21703,11 @@ HyfiPsETZxGRAAAAAElFTkSuQmCC </data>
 			<key>URL</key>
 			<string>https://linktr.ee/GodsDeltaInstaller</string>
 		</dict>
-		<dict>
-			<key>PayloadType</key>
-			<string>com.apple.dnsSettings.managed</string>
-			<key>PayloadIdentifier</key>
-			<string>com.wsf.dns</string>
-			<key>PayloadUUID</key>
-			<string>7E232738-EBF8-420A-8BD3-6F9E1F5AB219</string>
-			<key>PayloadVersion</key>
-			<integer>1</integer>
-			<key>PayloadDisplayName</key>
-			<string>CFDNS + Update Blocker</string>
-			<key>PayloadOrganization</key>
-			<string>WSF Team</string>
-			<key>DNSSettings</key>
-			<dict>
-				<key>DNSProtocol</key>
-				<string>HTTPS</string>
-				<key>ServerURL</key>
-				<string>https://32ev95ur21.cloudflare-gateway.com/dns-query</string>
-				<key>ServerName</key>
-				<string>CFDNS+Update Blocker</string>
-			</dict>
-		</dict>
 	</array>
 	<key>PayloadDescription</key>
 	<string>Exec Installer made by catgirl with love❤️
 Credit: Ricehub, WSF
 Ricehub: https://discord.gg/Qx2jyDSX6u
-WSF: https://discord.com/invite/kwvwkCBhxT</string>
 	<key>PayloadDisplayName</key>
 	<string>God’s Executor Installer</string>
 	<key>PayloadOrganization</key>
